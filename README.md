@@ -1,9 +1,20 @@
 # Binary-Clock
 
+### Disclaimer:
+Unfrotunately I am unable to post the code to my github as my professor does not want the code for this project to be available to future students.
+It is written in C 
+
+
+
+
+https://user-images.githubusercontent.com/94129362/222533702-a7ccaecd-4161-4d4f-8548-9055babc2e08.mp4
+
+
+
+
 Demo ^
 
-
-
+Have the user install ncurses
 How to compile and run the code:
 
 Type into the terminal `make run` and the clock will start ticking
