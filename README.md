@@ -1,8 +1,5 @@
 # Binary-Clock
 
-https://user-images.githubusercontent.com/94129362/222329973-20b13574-4bb4-476b-a59f-899bc0b5754e.mp4
-
-
 Demo ^
 
 
